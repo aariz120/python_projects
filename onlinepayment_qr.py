@@ -27,3 +27,5 @@ google_pay_qr.save("google_pay_qr.png")
 phonepe_qr.show()
 paytm_qr.show()
 google_pay_qr.show()
+
+## qr code should be scannable by the respective payment apps, allowing users to make payments directly to the specified UPI ID.
